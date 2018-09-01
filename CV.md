@@ -5,9 +5,7 @@ permalink: /cv/
 ---
 
 **Jordan Laune**<br>
-1365 E. 56th St.<br>
-Chicago, IL 60637<br>
-(812) 202-2198<br>
+jtlaune@gmail.com
 
 EDUCATION
 =========
