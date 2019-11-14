@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JT Laune</title>
+    <link>https://www.example.com/</link>
+    <description>Recent content on JT Laune</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Presentations</title>
+      <link>https://www.example.com/presentations/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/presentations/</guid>
+      <description>FLASH Simulations of Laser Experiments that Study Biermann Battery Generation of Magnetic Fields at LULI (poster). JT Laune, P. Tzeferacos. 2019 NIF &amp;amp; JLF User Group Meeting, Livermore, CA, 3-6 Feb 2019.
+ PROBLEM Solver: A nonlinear proton radiography reconstruction algorithm imple- mented in Python (poster). JT Laune, A. F. A. Bott, S. Feister, A. Bogale, N. Flocke, K. Weide, T.G. White, G. Gregori, A. A. Schekochihin, D. Q. Lamb, P.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://www.example.com/publications/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/publications/</guid>
+      <description>JT Laune, Hui Li, Shengtai Li, Ya-Ping Li, Levi G. Walls, Joanna Dra̧żkowska, Sebastian Stammler Tilman Birnstiel. Ring Morphology with Dust Coagulation in Protoplanetary Disks. (submitted to ApJL)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/contact/</guid>
+      <description>Contact Information Jordan Laune jtlaune@gmail.com jl3929@cornell.edu Space Sciences Building 122 Sciences Dr, Ithaca, NY 14853
+@jtlaune
+0000-0002-0896-7393</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.example.com/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.example.com/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/posts/</guid>
+      <description> First post coming soon </description>
+    </item>
+    
+  </channel>
+</rss>
